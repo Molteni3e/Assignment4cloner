@@ -1,0 +1,20 @@
+.hidden-image {
+    display: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.default-color {
+    background-color: lightgray;
+}
+
+.deep-pink {
+    background-color: deeppink;
+}  
+
+.pink {
+    background-color: pink;
+}
